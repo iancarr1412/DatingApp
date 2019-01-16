@@ -1,6 +1,6 @@
-.dropdown-toggle,{
+.dropdown-toggle {
   cursor: pointer;
-  font-size: .75rem
+  font-size: 1rem;
 }
 
 .dropdown-item {
