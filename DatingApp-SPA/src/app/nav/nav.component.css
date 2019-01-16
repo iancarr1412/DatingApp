@@ -1,0 +1,8 @@
+.dropdown-toggle,{
+  cursor: pointer;
+  font-size: .75rem
+}
+
+.dropdown-item {
+  cursor: pointer;
+}
